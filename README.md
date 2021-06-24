@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harryraval22
 - 👀 I’m interested in cyber security, data science and cryptocurrency
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me harryraval22 on every socialmedia
 
 <!---
